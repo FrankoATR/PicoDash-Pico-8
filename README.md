@@ -2,6 +2,7 @@
 > Totally inspired by one of my favorite childhood games, Geometry Dash. I tried to recreate some basic aspects of it using the Pico-8 software. It's not much, but I did it with love.
 
 Play here: [_PicoDash_](https://frankoatr.github.io/PicoDash-Pico-8/).
+Jump with Z...
 
 ## Table of Contents
 * [General Info](#general-information)
