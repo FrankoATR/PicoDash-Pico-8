@@ -3,8 +3,7 @@ Totally inspired by one of my favorite childhood games, Geometry Dash. I tried t
 
 > ## Play here: [_PicoDash_](https://frankoatr.github.io/PicoDash-Pico-8/)
 > ### Game Controls
-> PC: Jump with Z
-> Mobile: Jump with Circle
+> PC: Jump with Z, Mobile: Jump with Circle
 
 ## Table of Contents
 * [General Info](#general-information)
